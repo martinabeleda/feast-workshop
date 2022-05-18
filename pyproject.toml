@@ -8,7 +8,7 @@ authors = ["Your Name <you@example.com>"]
 python = "^3.8"
 cryptography = "^37.0.2"
 protobuf = "3.17"
-feast = {extras = ["aws"], version = "^0.21.2"}
+feast = {extras = ["spark", "redis"], version = "^0.21.2"}
 jupyter = "^1.0.0"
 notebook = "^6.4.11"
 

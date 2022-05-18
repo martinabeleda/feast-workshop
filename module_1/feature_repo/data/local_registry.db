@@ -1,0 +1,38 @@
+
+R
+2
+driver	driver id"	driver_idJfeast_demo_local
+•ó•”ØŒ…ú•ó•”ØŒ…ú
+I
+)
+__dummy"
+__dummy_idJfeast_demo_local
+•ó•”°À†ú•ó•”€Í‡ú"$4d8aa292-5409-4622-9b12-fe0f1cc38219*œó•”ˆŸ©Œ2Ä
+ˆ
+driver_hourly_statsfeast_demo_localdriver"
+	conv_rate"
+acc_rate"
+miles_driven*
+
+productionTrue2€àï— :Şevent_timestamp*createdZdata/driver_stats.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢driver_stats_sourceº=A table describing the stats of a driver based on hourly logsÊmartin.abeleda@gmail.com@RHourly featuresZmartin.abeleda@gmail.com7
+•ó•”à×ùùœó•”¸É™}
+œ“¦üåÿÿÿÿ°ï˜Y€î”2ƒ
+Æ
+driver_daily_featuresfeast_demo_localdriver"
+daily_miles_driven*
+
+productionTrue2€àï— :Şevent_timestamp*createdZdata/driver_stats.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢driver_stats_sourceº=A table describing the stats of a driver based on hourly logsÊmartin.abeleda@gmail.com@Jê	Šfeast.data_source.PushSource¢driver_stats_push_sourceÒªevent_timestamp*createdZdata/driver_stats.parquet¢driver_stats_sourceº=A table describing the stats of a driver based on hourly logsÊmartin.abeleda@gmail.comZtest2@gmail.com8
+•ó•”°Õÿùœó•”àí¡Œ
+œ“¦üåÿÿÿÿØÏË}€î”:œ
+|
+model_v2feast_demo_localD
+driver_hourly_stats
+	conv_rate
+acc_rate
+miles_driven2martin.abeleda@gmail.com
+•ó•” éˆú•ó•” éˆú:|
+\
+model_v1feast_demo_local$
+driver_hourly_stats
+	conv_rate2martin.abeleda@gmail.com
+•ó•”°±‹ú•ó•”°±‹úbñevent_timestamp*createdZdata/driver_stats.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢driver_stats_sourceªfeast_demo_localº=A table describing the stats of a driver based on hourly logsÊmartin.abeleda@gmail.combı	Šfeast.data_source.PushSource¢driver_stats_push_sourceªfeast_demo_localÒªevent_timestamp*createdZdata/driver_stats.parquet¢driver_stats_sourceº=A table describing the stats of a driver based on hourly logsÊmartin.abeleda@gmail.com
